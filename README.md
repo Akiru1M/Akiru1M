@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all listed above
 - 💞️ I’m looking to collaborate on Yandex
 - 📫 How to reach me: m1akiru1m@gmaill.com
-- ⚡ Fun fact: I can't say any fan fact about me)
+- ⚡ Fun fact: I can't say any fun fact about me)
 
 <!---
 Akiru1M/Akiru1M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
